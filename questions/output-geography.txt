@@ -1,0 +1,260 @@
+What is the capital of France?
+Answer: Paris
+Which ocean is located to the east of Africa?
+Answer: Indian Ocean
+Which mountain range is the longest in the world?
+Answer: Andes Mountains
+Which river is the longest in the world?
+Answer: Nile River
+What is the largest desert in the world?
+Answer: Sahara Desert
+Which country is known as the "Land of the Rising Sun"?
+Answer: Japan
+What is the largest country in South America?
+Answer: Brazil
+Which continent is known as the "Land Down Under"?
+Answer: Australia
+What is the capital of Canada?
+Answer: Ottawa
+Which African country is famous for its pyramids?
+Answer: Egypt
+In which ocean is the Great Barrier Reef located?
+Answer: Pacific Ocean
+What is the highest mountain in Africa?
+Answer: Mount Kilimanjaro
+Which river flows through the Grand Canyon?
+Answer: Colorado River
+Which country is famous for the ancient city of Machu Picchu?
+Answer: Peru
+What is the smallest continent by land area?
+Answer: Australia
+Which European country is shaped like a boot?
+Answer: Italy
+In which country is the Amazon Rainforest primarily located?
+Answer: Brazil
+Which city is known as the "Eternal City"?
+Answer: Rome
+What is the largest island in the Mediterranean Sea?
+Answer: Sicily
+In which continent is the Sahara Desert located?
+Answer: Africa
+Which river is associated with the city of London?
+Answer: Thames River
+Which U.S. state is known as the "Sunshine State"?
+Answer: Florida
+What is the largest country in the world by land area?
+Answer: Russia
+Which country is known for its fjords and Vikings?
+Answer: Norway
+What is the capital of Spain?
+Answer: Madrid
+Which desert is located in southwestern North America?
+Answer: Sonoran Desert
+What is the southernmost continent on Earth?
+Answer: Antarctica
+Which city is often referred to as the "Big Apple"?
+Answer: New York City
+Which river is the longest in Europe?
+Answer: Volga River
+What is the capital of South Africa?
+Answer: Pretoria (administrative), Bloemfontein (judicial), Cape Town (legislative)
+Which country is known for its tulips, windmills, and wooden shoes?
+Answer: Netherlands
+In which U.S. state is the Grand Canyon located?
+Answer: Arizona
+What is the capital of India?
+Answer: New Delhi
+Which country is famous for the Great Wall?
+Answer: China
+Which island country is located in the Caribbean Sea and shares a name with a type of music?
+Answer: Jamaica
+In which ocean is the island of Madagascar located?
+Answer: Indian Ocean
+What is the capital of Australia?
+Answer: Canberra
+Which strait separates Asia from North America?
+Answer: Bering Strait
+Which continent is entirely in the Southern Hemisphere?
+Answer: Antarctica
+What is the largest lake in Africa?
+Answer: Lake Victoria
+Which country is known as the "Land of Fire and Ice"?
+Answer: Iceland
+In which country would you find the ancient city of Petra?
+Answer: Jordan
+What is the capital of Brazil?
+Answer: Brasília
+Which U.S. state is known for its beaches, Disneyland, and Hollywood?
+Answer: California
+Which river flows through Paris?
+Answer: Seine River
+What is the tallest mountain in North America?
+Answer: Denali (formerly known as Mount McKinley)
+Which body of water separates Saudi Arabia from Africa?
+Answer: Red Sea
+In which country is the Great Victoria Desert located?
+Answer: Australia
+Which city is often called the "City of Canals"?
+Answer: Venice
+What is the capital of Argentina?
+Answer: Buenos Aires
+Which African country is known for its diverse wildlife and the Serengeti National Park?
+Answer: Tanzania
+In which U.S. state would you find the Rocky Mountains?
+Answer: Colorado
+Which river is the longest in South America?
+Answer: Amazon River
+What is the largest city in Canada?
+Answer: Toronto
+Which mountain range separates Europe and Asia?
+Answer: Ural Mountains
+In which ocean is the island of Bora Bora located?
+Answer: Pacific Ocean
+What is the capital of Russia?
+Answer: Moscow
+Which European country is known for its windmills, tulips, and wooden shoes?
+Answer: Netherlands
+In which country is the ancient city of Athens located?
+Answer: Greece
+Which body of water is located between Italy and the Balkan Peninsula?
+Answer: Adriatic Sea
+What is the capital of Mexico?
+Answer: Mexico City
+Which continent is known as the "Land of Fire" due to its many active volcanoes?
+Answer: South America
+In which U.S. state is the city of New Orleans located?
+Answer: Louisiana
+Which island country is located off the southeast coast of Africa and is known for its diverse wildlife?
+Answer: Madagascar
+What is the capital of Italy?
+Answer: Rome
+Which U.S. state is known for its arches and red rock formations?
+Answer: Utah
+In which country is the ancient city of Angkor Wat located?
+Answer: Cambodia
+Which river is associated with the city of Cairo?
+Answer: Nile River
+What is the largest city in India?
+Answer: Mumbai
+Which mountain range is located along the west coast of South America?
+Answer: Andes Mountains
+In which U.S. state would you find the Everglades?
+Answer: Florida
+Which European country is known for its fjords and high quality of life?
+Answer: Norway
+What is the capital of Canada's Quebec province?
+Answer: Quebec City
+Which sea is located between Europe and Asia?
+Answer: Black Sea
+In which country would you find the ancient city of Rome?
+Answer: Italy
+What is the capital of Egypt?
+Answer: Cairo
+Which island is often referred to as the "Emerald Isle"?
+Answer: Ireland
+In which ocean is the island of Hawaii located?
+Answer: Pacific Ocean
+What is the capital of Germany?
+Answer: Berlin
+Which mountain range runs along the western edge of North America?
+Answer: Rocky Mountains
+In which country is the Great Sandy Desert located?
+Answer: Australia
+What is the capital of South Korea?
+Answer: Seoul
+Which sea is located between Europe and Africa?
+Answer: Mediterranean Sea
+In which U.S. state is the city of Seattle located?
+Answer: Washington
+Which river is the longest in the world?
+Answer: Nile River
+What is the capital of China?
+Answer: Beijing
+Which island country is known for its Kiwi fruit and native Maori culture?
+Answer: New Zealand
+In which country is the ancient city of Istanbul located?
+Answer: Turkey
+What is the capital of Spain?
+Answer: Madrid
+Which desert is located in the southwestern United States and northern Mexico?
+Answer: Sonoran Desert
+In which country would you find the ancient city of Cairo?
+Answer: Egypt
+Which U.S. state is known for its beaches, oranges, and movie studios?
+Answer: California
+What is the capital of Canada?
+Answer: Ottawa
+Which river is associated with the city of London?
+Answer: Thames River
+In which continent is the Sahara Desert located?
+Answer: Africa
+What is the largest island in the Caribbean Sea?
+Answer: Cuba
+Which European country is known for its tulips, windmills, and canals?
+Answer: Netherlands
+In which country is the ancient city of Athens located?
+Answer: Greece
+What is the tallest mountain in North America?
+Answer: Denali (formerly known as Mount McKinley)
+Which river forms part of the boundary between Mexico and the United States?
+Answer: Rio Grande
+Which famous river flows through Egypt and is associated with ancient civilization?
+Answer: Nile River
+What is the world's largest ocean?
+Answer: Pacific Ocean
+Which African country is known as the "Rainbow Nation" due to its cultural diversity?
+Answer: South Africa
+Which city is considered the "Gateway to the West" in the United States?
+Answer: St. Louis
+What is the capital of Canada's British Columbia province?
+Answer: Victoria
+Which U.S. state is known as the "Last Frontier"?
+Answer: Alaska
+What is the highest mountain in the United States?
+Answer: Denali (formerly known as Mount McKinley)
+Which river is the longest in Europe and flows through cities like Vienna and Budapest?
+Answer: Danube River
+What is the largest city in Australia?
+Answer: Sydney
+Which body of water separates Saudi Arabia and Iran?
+Answer: Persian Gulf
+In which country would you find the city of Marrakech?
+Answer: Morocco
+What is the capital of South Africa's Western Cape province?
+Answer: Cape Town
+Which U.S. state is known for its unique Mardi Gras celebrations?
+Answer: Louisiana
+Which country is famous for its Swiss Alps, chocolate, and watches?
+Answer: Switzerland
+What is the capital of Argentina?
+Answer: Buenos Aires
+Which U.S. state is known for its cheese, beer, and professional football team?
+Answer: Wisconsin
+In which European city would you find the historic Brandenburg Gate?
+Answer: Berlin
+What is the capital of Australia's Queensland state?
+Answer: Brisbane
+Which island nation is located in the Caribbean Sea and is associated with the reggae music of Bob Marley?
+Answer: Jamaica
+In which country is the ancient city of Petra located?
+Answer: Jordan
+What is the longest river in South America?
+Answer: Amazon River
+Which U.S. state is known for its music scene, including the city of Nashville?
+Answer: Tennessee
+Which country is known as the "Land of the Rising Sun"?
+Answer: Japan
+What is the capital of Italy's Tuscany region?
+Answer: Florence
+Which U.S. state is famous for its beaches, oranges, and Disneyland?
+Answer: California
+In which country would you find the city of Edinburgh?
+Answer: Scotland
+What is the highest mountain in Europe?
+Answer: Mount Elbrus
+Which U.S. state is known for its Rocky Mountains, craft beer, and outdoor activities?
+Answer: Colorado
+Which country is famous for its stunning fjords, Vikings, and aurora borealis?
+Answer: Norway
+What is the capital of India's Maharashtra state?
+Answer: Mumbai (formerly Bombay)

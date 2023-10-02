@@ -1,0 +1,260 @@
+What is the smallest unit of an element that retains its properties?
+Answer: Atom
+What is the atomic number of carbon?
+Answer: 6
+Which element is represented by the chemical symbol Hg?
+Answer: Mercury
+What is the chemical formula for water?
+Answer: H2O
+What is the state of matter with a definite shape and volume?
+Answer: Solid
+Which type of chemical bond involves the sharing of electrons between atoms?
+Answer: Covalent bond
+What is the pH range of an acidic solution?
+Answer: Below 7
+Which gas is produced during photosynthesis and used by plants for energy?
+Answer: Oxygen
+What is the process by which a solid changes directly into a gas without passing through the liquid phase?
+Answer: Sublimation
+What is the chemical symbol for gold?
+Answer: Au
+What is the total number of protons and neutrons in the nucleus of an atom?
+Answer: Atomic mass
+Which element is the most abundant in Earth's atmosphere?
+Answer: Nitrogen
+What is the process by which a liquid changes into a gas at its boiling point?
+Answer: Vaporization
+What is the state of matter with no definite shape or volume?
+Answer: Gas
+What is the term for the smallest particle of a compound that retains the properties of that compound?
+Answer: Molecule
+Which element is essential for life and forms the basis of organic compounds?
+Answer: Carbon
+What is the process by which an atom gains or loses electrons, resulting in a charged particle?
+Answer: Ionization
+What is the chemical formula for glucose?
+Answer: C6H12O6
+Which gas is produced when an acid reacts with a metal?
+Answer: Hydrogen
+What is the process by which a gas changes directly into a solid without passing through the liquid phase?
+Answer: Deposition
+Which element is essential for respiration and is found in the molecules ATP and DNA?
+Answer: Phosphorus
+What is the name of the process in which a metal reacts with oxygen to form a layer of oxide on its surface?
+Answer: Oxidation
+What is the term for a substance that speeds up a chemical reaction without being consumed itself?
+Answer: Catalyst
+Which type of chemical bond involves the transfer of electrons from one atom to another?
+Answer: Ionic bond
+What is the chemical symbol for sodium?
+Answer: Na
+What is the process by which a liquid changes into a gas below its boiling point?
+Answer: Evaporation
+What is the state of matter with a definite volume but no definite shape?
+Answer: Liquid
+What is the pH range of a basic solution?
+Answer: Above 7
+Which gas is released when acids react with carbonates or bicarbonates?
+Answer: Carbon dioxide
+What is the term for a solution that has a higher concentration of solute than another solution?
+Answer: Hypertonic
+Which element is represented by the chemical symbol Fe?
+Answer: Iron
+What is the chemical formula for methane?
+Answer: CH4
+What is the process by which a metal reacts with an acid to produce hydrogen gas and a salt?
+Answer: Metal-acid reaction
+Which gas is produced when organic matter undergoes anaerobic decomposition?
+Answer: Methane
+What is the name of the process in which a metal reacts with water to produce hydrogen gas and a metal hydroxide?
+Answer: Metal-water reaction
+What is the term for a solution that has a lower concentration of solute than another solution?
+Answer: Hypotonic
+Which element is essential for bone and teeth formation and is found in hydroxyapatite?
+Answer: Calcium
+What is the process by which a solid changes into a liquid at its melting point?
+Answer: Melting
+What is the term for a substance that can accept or donate electrons to form ions?
+Answer: Redox
+What is the chemical symbol for oxygen?
+Answer: O
+Which gas is produced when a metal reacts with an acid?
+Answer: Hydrogen
+What is the chemical formula for sulfuric acid?
+Answer: H2SO4
+What is the name of the process in which a gas changes into a liquid?
+Answer: Condensation
+Which type of reaction involves the combination of two or more substances to form a new compound?
+Answer: Synthesis
+What is the term for the smallest particle of an element that retains the properties of that element?
+Answer: Atom
+Which element is essential for life and is a major component of DNA, RNA, and ATP?
+Answer: Phosphorus
+What is the chemical formula for carbon dioxide?
+Answer: CO2
+What is the name of the process in which a liquid changes into a gas at its boiling point?
+Answer: Vaporization
+Which type of reaction involves the breakdown of a compound into simpler substances?
+Answer: Decomposition
+What is the chemical symbol for helium?
+Answer: He
+What is the process by which a gas changes into a solid at its freezing point?
+Answer: Deposition
+Which type of reaction involves the exchange of ions or atoms between two compounds?
+Answer: Double displacement
+What is the term for a solution with equal concentrations of solute on both sides of a semipermeable membrane?
+Answer: Isotonic
+Which element is essential for life and is a major component of water molecules?
+Answer: Oxygen
+What is the chemical formula for hydrochloric acid?
+Answer: HCl
+What is the name of the process in which a solid changes into a liquid?
+Answer: Melting
+Which type of reaction involves the reaction between an acid and a base to produce water and a salt?
+Answer: Acid-base neutralization
+What is the term for a solution with a lower concentration of solute than another solution?
+Answer: Hypotonic
+Which element is essential for life and is a major component of amino acids and proteins?
+Answer: Nitrogen
+What is the chemical formula for ammonia?
+Answer: NH3
+What is the name of the process in which a liquid changes into a gas below its boiling point?
+Answer: Evaporation
+Which type of reaction involves the reaction between a metal and a non-metal to produce an ionic compound?
+Answer: Metal-non-metal reaction
+What is the term for a solution with a higher concentration of solute than another solution?
+Answer: Hypertonic
+Which element is essential for life and is a major component of carbohydrates?
+Answer: Carbon
+What is the chemical formula for nitric acid?
+Answer: HNO3
+What is the name of the process in which a gas changes into a liquid?
+Answer: Condensation
+Which type of reaction involves the reaction between an acid and a metal to produce hydrogen gas and a salt?
+Answer: Acid-metal reaction
+What is the term for a solution with equal concentrations of solute on both sides of a semipermeable membrane?
+Answer: Isotonic
+Which element is essential for life and is a major component of lipids and cell membranes?
+Answer: Phosphorus
+What is the chemical formula for hydrobromic acid?
+Answer: HBr
+What is the name of the process in which a solid changes into a gas without passing through the liquid phase?
+Answer: Sublimation
+Which type of reaction involves the reaction between an acid and a carbonate to produce carbon dioxide gas, water, and a salt?
+Answer: Acid-carbonate reaction
+What is the term for a solution that has a lower concentration of solute than another solution?
+Answer: Hypotonic
+Which element is essential for life and is a major component of nucleic acids and ATP?
+Answer: Phosphorus
+What is the chemical formula for hydrofluoric acid?
+Answer: HF
+What is the name of the process in which a liquid changes into a gas at its boiling point?
+Answer: Vaporization
+Which type of reaction involves the reaction between an acid and a hydrogen carbonate to produce carbon dioxide gas, water, and a salt?
+Answer: Acid-hydrogen carbonate reaction
+What is the term for a solution with a higher concentration of solute than another solution?
+Answer: Hypertonic
+Which element is essential for life and is a major component of chlorophyll?
+Answer: Magnesium
+What is the chemical formula for hydroiodic acid?
+Answer: HI
+What is the name of the process in which a gas changes into a solid at its freezing point?
+Answer: Deposition
+Which type of reaction involves the reaction between an acid and a hydroxide to produce water and a salt?
+Answer: Acid-base neutralization
+What is the term for a solution with equal concentrations of solute on both sides of a semipermeable membrane?
+Answer: Isotonic
+Which element is essential for life and is a major component of enzymes and coenzymes?
+Answer: Iron
+What is the chemical formula for acetic acid?
+Answer: CH3COOH
+What is the name of the process in which a liquid changes into a gas below its boiling point?
+Answer: Evaporation
+Which type of reaction involves the reaction between an acid and a sulfide to produce hydrogen sulfide gas and a salt?
+Answer: Acid-sulfide reaction
+What is the term for a solution with a lower concentration of solute than another solution?
+Answer: Hypotonic
+Which element is essential for life and is a major component of bones and teeth?
+Answer: Calcium
+What is the chemical formula for citric acid?
+Answer: C6H8O7
+What is the name of the process in which a solid changes into a liquid?
+Answer: Melting
+Which type of reaction involves the reaction between an acid and a metal oxide to produce water and a salt?
+Answer: Acid-metal oxide reaction
+What is the term for a solution with a higher concentration of solute than another solution?
+Answer: Hypertonic
+Which element is essential for life and is a major component of hemoglobin and myoglobin?
+Answer: Iron
+What is the chemical formula for ascorbic acid (vitamin C)?
+Answer: C6H8O6
+What is the name of the process in which a gas changes into a liquid?
+Answer: Condensation
+Which type of reaction involves the reaction between an acid and a hydrogen sulfide to produce hydrogen sulfide gas and a salt?
+Answer: Acid-hydrogen sulfide reaction
+What is the term for a solution with equal concentrations of solute on both sides of a semipermeable membrane?
+Answer: Isotonic
+Which element is essential for life and is a major component of DNA and RNA?
+Answer: Nitrogen
+What is the chemical formula for hydrocyanic acid?
+Answer: HCN
+What is the chemical symbol for gold?
+Answer: Au
+What is the term for the vertical columns in the periodic table?
+Answer: Groups
+What is the term for the horizontal rows in the periodic table?
+Answer: Periods
+What is the chemical symbol for lead?
+Answer: Pb
+Which gas is commonly known as laughing gas?
+Answer: Nitrous oxide (N2O)
+What is the chemical formula for table salt?
+Answer: NaCl
+What is the process by which a substance changes directly from a solid to a gas without passing through the liquid phase?
+Answer: Sublimation
+Which element is essential for life and is a major component of bones and teeth?
+Answer: Calcium
+What is the chemical formula for methane?
+Answer: CH4
+What is the term for the substance that is dissolved in a solution?
+Answer: Solute
+Which gas is responsible for the sharp, pungent smell associated with chlorine bleach?
+Answer: Chlorine gas (Cl2)
+What is the chemical formula for sulfuric acid?
+Answer: H2SO4
+What is the process by which a liquid changes into a gas at its boiling point?
+Answer: Vaporization
+What is the name of the process in which a gas changes into a liquid?
+Answer: Condensation
+What is the chemical formula for water?
+Answer: H2O
+Which gas is essential for respiration and is produced during photosynthesis?
+Answer: Oxygen (O2)
+What is the term for a solution with a pH greater than 7?
+Answer: Basic
+What is the chemical symbol for silver?
+Answer: Ag
+What is the process by which a solid changes into a liquid at its melting point?
+Answer: Melting
+Which gas is produced during the fermentation of sugars and is responsible for the bubbles in bread and beer?
+Answer: Carbon dioxide (CO2)
+What is the chemical formula for hydrochloric acid?
+Answer: HCl
+What is the term for a solution with a pH less than 7?
+Answer: Acidic
+What is the chemical symbol for potassium?
+Answer: K
+What is the process by which a gas changes directly into a solid without passing through the liquid phase?
+Answer: Deposition
+What is the chemical formula for acetic acid?
+Answer: CH3COOH
+Which gas is commonly used in carbonated beverages to give them fizz?
+Answer: Carbon dioxide (CO2)
+What is the term for a substance that speeds up a chemical reaction without being consumed itself?
+Answer: Catalyst
+What is the chemical symbol for iron?
+Answer: Fe
+What is the process by which a solid changes into a gas without passing through the liquid phase?
+Answer: Sublimation
+What is the chemical formula for hydrobromic acid?
+Answer: HBr

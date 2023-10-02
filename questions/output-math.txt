@@ -1,0 +1,260 @@
+What is 7 + 5?
+Answer: 12
+Multiply 6 by 8.
+Answer: 48
+Calculate 3/4 of 16.
+Answer: 12
+If x = 5 and y = 3, what is x + y?
+Answer: 8
+What is 20% of 150?
+Answer: 30
+If a = 9 and b = 2, what is a - b?
+Answer: 7
+Calculate 2.5 × 4.
+Answer: 10
+Divide 36 by 6.
+Answer: 6
+Simplify: 2 + 3 × 4.
+Answer: 14
+Find the value of 8².
+Answer: 64
+What is the square root of 49?
+Answer: 7
+Solve for x: 2x = 14.
+Answer: 7
+Calculate 15 ÷ 3 + 2.
+Answer: 7
+If a car travels at 60 km/h for 2 hours, how far does it go?
+Answer: 120 km
+What is 0.75 as a fraction in simplest form?
+Answer: 3/4
+Solve for y: 4y - 7 = 17.
+Answer: 6
+Calculate 5 + 3 × (10 - 2).
+Answer: 29
+If x = 12 and y = 4, what is x ÷ y?
+Answer: 3
+What is 25% of 80?
+Answer: 20
+Evaluate 2³.
+Answer: 8
+What is the cube root of 27?
+Answer: 3
+Solve for x: 3x + 8 = 26.
+Answer: 6
+Calculate 4.2 × 5.
+Answer: 21
+Divide 72 by 9.
+Answer: 8
+Simplify: 5 × (7 + 2).
+Answer: 45
+If a rectangle has a length of 12 units and a width of 5 units, what is its area?
+Answer: 60 square units
+What is 0.6 as a fraction in simplest form?
+Answer: 3/5
+Solve for z: 5z - 10 = 15.
+Answer: 5
+Calculate 9 + 2 × (8 ÷ 4).
+Answer: 13
+If x = 10 and y = 2, what is x × y?
+Answer: 20
+What is 15% of 200?
+Answer: 30
+Evaluate 7².
+Answer: 49
+What is the square root of 81?
+Answer: 9
+Solve for x: 4x = 32.
+Answer: 8
+Calculate 18 ÷ 2 + 5.
+Answer: 14
+If a triangle has a base of 6 units and a height of 9 units, what is its area?
+Answer: 27 square units
+What is 0.2 as a fraction in simplest form?
+Answer: 1/5
+Solve for y: 2y + 5 = 17.
+Answer: 6
+Calculate 6.5 × 3.
+Answer: 19.5
+Divide 56 by 7.
+Answer: 8
+Simplify: 4 × (6 + 3).
+Answer: 36
+If x = 8 and y = 4, what is x ÷ y?
+Answer: 2
+What is 10% of 150?
+Answer: 15
+Evaluate 3³.
+Answer: 27
+What is the cube root of 64?
+Answer: 4
+Solve for x: 2x + 7 = 23.
+Answer: 8
+Calculate 3.8 × 4.
+Answer: 15.2
+Divide 81 by 9.
+Answer: 9
+Simplify: 3 + 4 × (9 - 2).
+Answer: 31
+If a circle has a radius of 5 units, what is its circumference? (Use π ≈ 3.14)
+Answer: 31.4 units
+What is 0.4 as a fraction in simplest form?
+Answer: 2/5
+Solve for z: 3z - 5 = 10.
+Answer: 5
+Calculate 7 + 4 × (12 ÷ 6).
+Answer: 15
+If x = 9 and y = 3, what is x × y?
+Answer: 27
+What is 12% of 80?
+Answer: 9.6
+Evaluate 5².
+Answer: 25
+What is the square root of 64?
+Answer: 8
+Solve for x: 5x = 45.
+Answer: 9
+Calculate 24 ÷ 3 + 6.
+Answer: 14
+If a square has a side length of 7 units, what is its area?
+Answer: 49 square units
+What is 0.8 as a fraction in simplest form?
+Answer: 4/5
+Solve for y: 6y + 4 = 22.
+Answer: 3
+Calculate 4.5 × 2.
+Answer: 9
+Divide 63 by 9.
+Answer: 7
+Simplify: 6 + 2 × (7 - 1).
+Answer: 18
+If a rectangle has a length of 15 units and a width of 8 units, what is its perimeter?
+Answer: 46 units
+What is 0.25 as a fraction in simplest form?
+Answer: 1/4
+Solve for z: 4z - 6 = 14.
+Answer: 5
+Calculate 8 + 5 × (10 ÷ 5).
+Answer: 18
+If x = 7 and y = 5, what is x × y?
+Answer: 35
+What is 18% of 90?
+Answer: 16.2
+Evaluate 6².
+Answer: 36
+What is the square root of 100?
+Answer: 10
+Solve for x: 6x = 54.
+Answer: 9
+Calculate 27 ÷ 3 + 9.
+Answer: 18
+If a triangle has a base of 8 units and a height of 12 units, what is its area?
+Answer: 48 square units
+What is 0.3 as a fraction in simplest form?
+Answer: 3/10
+Solve for y: 7y + 3 = 24.
+Answer: 3
+Calculate 3.2 × 5.
+Answer: 16
+Divide 90 by 9.
+Answer: 10
+Simplify: 7 + 3 × (5 - 1).
+Answer: 19
+If a circle has a diameter of 10 units, what is its radius?
+Answer: 5 units
+What is 0.5 as a fraction in simplest form?
+Answer: 1/2
+Solve for z: 2z - 4 = 10.
+Answer: 7
+Calculate 5 + 6 × (15 ÷ 3).
+Answer: 35
+If x = 6 and y = 4, what is x × y?
+Answer: 24
+What is 14% of 70?
+Answer: 9.8
+Evaluate 8².
+Answer: 64
+What is the square root of 121?
+Answer: 11
+Solve for x: 7x = 63.
+Answer: 9
+Calculate 36 ÷ 4 + 9.
+Answer: 18
+If a square has a side length of 9 units, what is its perimeter?
+Answer: 36 units
+What is 0.75 as a fraction in simplest form?
+Answer: 3/4
+Solve for y: 5y + 2 = 17.
+Answer: 3
+Calculate 2.8 × 5.
+Answer: 14
+Divide 99 by 9.
+Answer: 11
+Simplify: 8 + 4 × (6 - 2).
+Answer: 24
+If a rectangle has a length of 14 units and a width of 6 units, what is its area?
+Answer: 84 square units
+What is 0.6 as a fraction in simplest form?
+Answer: 3/5
+Solve for z: 6z - 8 = 22.
+Answer: 5
+What is the smallest prime number?
+Answer: 2
+Which famous mathematician is often referred to as the "father of geometry"?
+Answer: Euclid
+How many degrees are in a right angle?
+Answer: 90 degrees
+What is the sum of the angles in a triangle?
+Answer: 180 degrees
+What is the area of a circle with a radius of 7 units? (Use π ≈ 3.14)
+Answer: 154 square units
+What is the famous mathematical constant that represents the ratio of a circle's circumference to its diameter?
+Answer: π (pi)
+What is the Pythagorean theorem used for?
+Answer: Finding the relationship between the sides of a right triangle: a² + b² = c²
+What is the largest prime number less than 20?
+Answer: 19
+How many sides does a hexagon have?
+Answer: 6
+What is the only even prime number?
+Answer: 2
+What is the number zero divided by any non-zero number?
+Answer: Undefined
+How many faces does a cube have?
+Answer: 6
+Which mathematical term refers to a number that can only be divided by 1 and itself?
+Answer: Prime number
+What is the value of 10 factorial (10!)?
+Answer: 3,628,800
+What is the sum of the interior angles of a pentagon?
+Answer: 540 degrees
+What is the slope of a horizontal line?
+Answer: 0
+How many sides does an octagon have?
+Answer: 8
+What is the square root of 144?
+Answer: 12
+Which ancient civilization is credited with introducing the concept of zero?
+Answer: Ancient Indian civilization
+What is the largest two-digit prime number?
+Answer: 97
+What is the smallest positive integer that is neither prime nor composite?
+Answer: 1
+Which mathematical term represents a quantity that has both magnitude and direction?
+Answer: Vector
+What is the value of the golden ratio, often denoted by the Greek letter phi (φ)?
+Answer: Approximately 1.618
+What is the product of any number multiplied by zero?
+Answer: 0
+What is the mathematical term for a shape with eight sides?
+Answer: Octagon
+How many edges does a rectangular prism (box) have?
+Answer: 12
+What is the sum of the first 10 positive odd numbers?
+Answer: 100
+What is the mathematical term for the number that, when multiplied by itself, equals a given number?
+Answer: Square root
+What is the smallest positive integer that is a multiple of both 4 and 7?
+Answer: 28
+What is the area of a triangle with a base of 9 units and a height of 6 units?
+Answer: 27 square units
